@@ -1,4 +1,0 @@
-[submodule "Neptune-Core"]
-	path = Neptune-Core
-	url = git@github.com:JoshDanielWalker/Neptune-Core.git
-	branch = master
